@@ -1,0 +1,2 @@
+# kelasruby
+ini mainan aja
